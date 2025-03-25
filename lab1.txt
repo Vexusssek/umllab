@@ -1,0 +1,7 @@
+Dziedzina problemu:
+Dziedziną problemu jest system zarządzania internetową biblioteką.
+Klasa X1(Biblioteka) reprezentuje bibliotekę. Zawiera informacje o nazwie biblioteki,
+jej fizyczną lokalizację(ulica, miasto).
+W bibliotece znajdują się książki (Klasa X2), które należą do zasobów biblioteki (Klasa X3).
+Każda książka posiada informacje o autorze, numerze ISBN, tytule, gatunku i ilości stron.
+Zasoby zawierają natomiast informacje o ich ID (do ich identyfikacji, czy usuwania).
