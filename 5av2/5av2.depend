@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1743467438 source:/home/matib/Pulpit/vsfiles/Zasob.cpp
+	"Zasob.h"
+
+1743467452 /home/matib/Pulpit/vsfiles/Zasob.h
+	<iostream>
+
+1743466702 source:/home/matib/Pulpit/vsfiles/5av2/main.cpp
+	<iostream>
+
+1743468134 source:/home/matib/Pulpit/vsfiles/Ksiazka.cpp
+	"Ksiazka.h"
+	<iostream>
+
+1743467450 /home/matib/Pulpit/vsfiles/Ksiazka.h
+	"Zasob.h"
+
+1743468140 source:/home/matib/Pulpit/vsfiles/Biblioteka.cpp
+	"Biblioteka.h"
+
+1743467757 /home/matib/Pulpit/vsfiles/Biblioteka.h
+	<string>
+	<vector>
+	<memory>
+	"Zasob.h"
+
